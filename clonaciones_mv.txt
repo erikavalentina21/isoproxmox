@@ -1,1 +1,2 @@
 20000:clonacionfedora:vinculada
+10000:clonaciondebian:completo
